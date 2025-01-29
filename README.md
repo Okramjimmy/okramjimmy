@@ -3,21 +3,21 @@
 <h3 align="center">🚀 AI/ML Enthusiast | Data Engineer | Full-Stack Developer | Crafting scalable web apps with Next.js, real-time pipelines, and fine-tuning LLMs for smarter solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ2d2NwZ2czMXVlcW5paTA0eHY3b29pY295ZHdxY3NtM3NzODMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif"
 
-- 🔭 I’m currently working on **AI-assisted legal translation system for judgments**
+-🔭 I’m currently working on **AI-assisted legal translation system for judgments**
 
-- 🌱 I’m currently learning **Next.js, RabbitMQ, advanced deployment techniques with Docker and Kubernetes, CI/CD pipelines, and cloud services like AWS for scalable applications. I’m also exploring the optimization of big data workflows and distributed systems.**
+-🌱 I’m currently learning **Next.js, RabbitMQ, advanced deployment techniques with Docker and Kubernetes, CI/CD pipelines, and cloud services like AWS for scalable applications. I’m also exploring the optimization of big data workflows and distributed systems.**
 
-- 👯 I’m looking to collaborate on **Big Data and AI-based projects**
+-👯 I’m looking to collaborate on **Big Data and AI-based projects**
 
-- 🤝 I’m looking for help with **Advanced NLP and fine-tuning LLMs**
+-🤝 I’m looking for help with **Advanced NLP and fine-tuning LLMs**
 
-- 📝 I regularly write articles on [https://okram.co.in/](https://okram.co.in/)
+-📝 I regularly write articles on [https://okram.co.in/](https://okram.co.in/)
 
-- 💬 Ask me about **React, FastAPI, PySpark, AI/ML model deployment, fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG) systems, Apache Kafka, Elasticsearch, data pipelines, and integrating AI solutions with real-time analytics.**
+-💬 Ask me about **React, FastAPI, PySpark, AI/ML model deployment, fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG) systems, Apache Kafka, Elasticsearch, data pipelines, and integrating AI solutions with real-time analytics.**
 
-- 📫 How to reach me **okramjimmy@gmail.com**
+-📫 How to reach me **okramjimmy@gmail.com**
 
-- ⚡ Fun fact **I can make a Kafka pipeline look simple while cracking a good joke!**
+-⚡ Fun fact **I can make a Kafka pipeline look simple while cracking a good joke!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
