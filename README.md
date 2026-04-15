@@ -12,43 +12,91 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ2d2NwZ2czMXVlcW5paTA0eHY3b29pY295ZHdxY3NtM3NzODMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" />
+## 🚀 Current Work & Focus
 
-- 🔭 I'm currently working on **AI-assisted legal translation system for judgments**
+<img align="right" alt="Coding" width="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ2d2NwZ2czMXVlcW5paTA0eHY3b29pY295ZHdxY3NtM3NzODMyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" />
 
-- 🌱 I'm currently learning **Next.js, RabbitMQ, advanced deployment techniques with Docker and Kubernetes, CI/CD pipelines, and cloud services like AWS for scalable applications. I'm also exploring the optimization of big data workflows and distributed systems.**
+### 🏗️ Building Now
 
-- 👯 I'm looking to collaborate on **Big Data and AI-based projects**
+![ERP](https://img.shields.io/badge/Project-ERP_System-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-- 🤝 I'm looking for help with **Advanced NLP and fine-tuning LLMs**
+Developing a modular **Enterprise Resource Planning (ERP)** platform focused on workflow automation, approvals, and operational management.
 
-- 📝 I regularly write articles on [https://okram.co.in/](https://okram.co.in/)
+---
 
-- 💬 Ask me about **React, FastAPI, PySpark, AI/ML model deployment, fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG) systems, Apache Kafka, Elasticsearch, data pipelines, and integrating AI solutions with real-time analytics.**
+### ✅ Recently Delivered
 
-- 📫 How to reach me **okramjimmy@gmail.com**
+![AI](https://img.shields.io/badge/AI-Legal_Translation-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-lightgrey?style=for-the-badge)
 
-- ⚡ Fun fact **I can make a Kafka pipeline look simple while cracking a good joke!**
+Production-ready **AI-based legal translation system** for judicial documents.
+
+---
+
+### 🧠 Core Stack
+
+![React](https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge\&logo=react)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![Kafka](https://img.shields.io/badge/Streaming-Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Deploy-Docker-2496ED?style=for-the-badge\&logo=docker)
+
+---
+
+### 📚 Currently Learning
+
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge\&logo=next.js)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge\&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blueviolet?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge\&logo=amazonaws)
+
+---
+
+### 🤝 Collaboration
+
+Open to building **ERP systems, backend platforms, and AI-driven workflows**
+
+---
+
+### 📝 Writing
+
+🔗 https://okram.co.in
+
+---
+
+### 📫 Contact
+
+📧 [okramjimmy@gmail.com](mailto:okramjimmy@gmail.com)
 
 <br clear="right"/>
+
 
 ---
 
 ### 🧠 About Me — In Code
 
-```python
-jimmy = {
-    "name":      "Okram Jimmy Singh",
-    "role":      "System Engineer | AI/ML Enthusiast | Data Engineer",
-    "location":  "Northeast India 🇮🇳 (Manipur → Guwahati)",
-    "languages": ["Manipuri (Meitei)", "Hindi", "English"],
-    "focus":     ["LLMs", "RAG Systems", "Indic NLP", "Real-Time Pipelines"],
-    "current":   "AI-assisted legal translation for Indian court judgments",
-    "learning":  ["Kubernetes", "RabbitMQ", "AWS", "gRPC", "LLM Fine-tuning"],
-    "collab":    "Big Data + AI projects — DM me!",
-    "blog":      "https://okram.co.in",
-    "fun_fact":  "I make Kafka pipelines look simple while cracking a good joke! 🎭",
-}
+
+```bash
+$ whoami
+
+Name        : Okram Jimmy Singh
+Role        : System Engineer | AI/ML | Data Engineering
+Location    : Northeast India 🇮🇳
+Languages   : Manipuri | Hindi | English
+
+Current     : Building Enterprise Resource Planning (ERP) System
+Completed   : AI Legal Translation System
+
+Focus       : LLMs | RAG | Indic NLP | Real-Time Pipelines
+Learning    : Kubernetes | RabbitMQ | AWS | gRPC | LLM Fine-tuning
+
+Blog        : https://okram.co.in
+Contact     : okramjimmy@gmail.com
+
+Status      : Shipping systems ⚙️
+
+
 ```
 
 ---
